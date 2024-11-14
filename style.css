@@ -11,9 +11,9 @@
 .flip-container {
     perspective: 1000px;
     width: 90vw; /* Use viewport width for responsiveness */
-    max-width: 1240px; /* Set a maximum width */
+    max-width: 1245px; /* Set a maximum width */
     height: calc(90vw * 1.41); /* Maintain aspect ratio for A4 size */
-    max-height: 1748px; /* Set a maximum height */
+    max-height: 1753px; /* Set a maximum height */
     margin: 50px auto; /* Center the card */
     cursor: pointer;
     position: relative;
